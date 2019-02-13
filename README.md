@@ -1,5 +1,7 @@
 # Blocktap Wordpress Widget
 
+The Blocktap Wordpress widget provides the most recent price, volume and market cap data for hundreds of cryptocurrencies and digital assets
+
 ## Install
 1. On GitHub, download and save the repository as a Zip file
 1. In your wordpress admin, go to Plugins -> Add New
