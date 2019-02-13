@@ -1,5 +1,7 @@
 # Blocktap Wordpress Widget
 
+![screenshot](https://raw.githubusercontent.com/altangent/wordpress-plugin/master/Screenshot.png?token=AEEn_4SENLvjbSdBNGao5O0aBcTH9ddFks5cbduxwA%3D%3D)
+
 The Blocktap Wordpress widget provides the most recent price, volume and market cap data for hundreds of cryptocurrencies and digital assets
 
 ## Install
