@@ -56,7 +56,7 @@ class Blocktap_Widget extends WP_Widget {
 					</div>';
 
 		// This is where the magic happens
-		echo '<script type="text/javascript" src="https://blocktap.io/public/js/blocktap-widget.min.js"></script>';
+		echo '<script type="text/javascript" src="https://www.blocktap.io/public/js/blocktap-widget.min.js"></script>';
 
 		echo $args['after_widget'];
 	}
